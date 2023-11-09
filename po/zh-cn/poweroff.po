@@ -19,7 +19,7 @@ msgid "Shut down your router"
 msgstr "关闭您设备上的电源"
 
 msgid "Perform PowerOff"
-msgstr "立刻关机"
+msgstr "执行关机"
 
 msgid "Warning: There are unsaved changes that will get lost on shutting down!"
 msgstr "警告：没保存的改动在关机的时候都会丢失！别惊讶，要么保存，要么放弃"

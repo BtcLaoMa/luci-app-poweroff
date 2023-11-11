@@ -28,4 +28,4 @@ msgid "Waiting for device..."
 msgstr "正在关机中..."
 
 msgid "Router is shutting down..."
-msgstr "正在关机中..."
+msgstr "已经成功关闭电源"
